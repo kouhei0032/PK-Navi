@@ -8,7 +8,10 @@
 日々の食事における「リン(P)」と「カリウム(K)」の情報確認を行うためのアプリです。
 
 ## アプリリンク（App Link）
-このアプリは以下のURLから利用できます。
+このアプリは以下のURLから利用できます。　
+
+## ウェブサイト（Web Site）
+https://
 
 [![Open in Streamlit](https://img.shields.io/badge/Open%20in%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://pk-navi.streamlit.app//)
 
